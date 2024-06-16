@@ -14,7 +14,6 @@ html {
 
 :root {
     --light: #eee;
-    
     --sky: #66c5eb;
     --dark: #010101;
 }
@@ -146,8 +145,7 @@ html {
     top: 7rem;
     right: 6rem;
     width: 3.5rem;
-    height: 2rem;
-    
+    height: 2rem;    
     cursor: pointer;
 }
 
@@ -192,11 +190,3 @@ html {
     transform: rotateZ(-45deg);
     transition: top 0.1s cubic-bezier(0.23, 1, 0.32, 1), transform 0.3s 1.6s;
 }
-
-
-
-
-
-
-
-
